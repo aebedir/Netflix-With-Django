@@ -28,7 +28,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aebedir&show_icons=true&locale=en" alt="aebedir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aebedir&" alt="aebedir" /></p>
 
