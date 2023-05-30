@@ -23,11 +23,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
-  
-
-![alt text](https://aebedir.github.io/img/NETFL%C4%B0X1.png)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer">   
 
 
 
+![netflix-home](https://github.com/aebedir/Netflix-With-Django/assets/114408989/50ba0bf9-b77c-4036-875e-87347ea645f9)
 
+![netflix-login](https://github.com/aebedir/Netflix-With-Django/assets/114408989/316f1e7b-8fcd-4a0e-8c6b-08dec9b5682b)
+
+![netflix-profil](https://github.com/aebedir/Netflix-With![netflix-register](https://github.com/aebedir/Netflix-With-Django/assets/114408989/c1839310-c626-460a-8573-005cc9bd35e2)
+-Django/assets/114408989/a694ce19-a99e-40c6-85d2-0ea4dfe53742)
+ 
+![netflix-register](https://github.com/aebedir/Netflix-With-Django/assets/114408989/3adac7cb-6fe1-4f6a-a0f2-7f494f40059d)
+
+![netflix-hesap](https://github.com/aebedir/Netflix-With-Django/assets/114408989/4d80d826-9c29-469f-94ec-70110fe35ca4)
