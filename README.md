@@ -25,12 +25,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer">   
 
+<h2 align="center">Video:</h2>
 
-<h3 align="left">Video:</h3>
 https://github.com/aebedir/Netflix-With-Django/assets/114408989/50a1a30e-7053-4064-9658-1f22862e671d
+ 
 
+<h2 align="center">Images:</h2>
+ 
 
-<h3 align="left">Images:</h3>
 ![netflix-home](https://github.com/aebedir/Netflix-With-Django/assets/114408989/50ba0bf9-b77c-4036-875e-87347ea645f9)
 
 ![netflix-login](https://github.com/aebedir/Netflix-With-Django/assets/114408989/316f1e7b-8fcd-4a0e-8c6b-08dec9b5682b)
