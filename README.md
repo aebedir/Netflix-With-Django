@@ -26,8 +26,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer">   
 
 <h2 align="center">Video:</h2>
+ 
 
-https://github.com/aebedir/Netflix-With-Django/assets/114408989/50a1a30e-7053-4064-9658-1f22862e671d
+
+
+https://github.com/aebedir/Netflix-With-Django/assets/114408989/7ce78169-7ad9-4299-a0d9-28156db605a2
+
+
  
 
 <h2 align="center">Images:</h2>
