@@ -31,8 +31,7 @@
 
 ![netflix-login](https://github.com/aebedir/Netflix-With-Django/assets/114408989/316f1e7b-8fcd-4a0e-8c6b-08dec9b5682b)
 
-![netflix-profil](https://github.com/aebedir/Netflix-With![netflix-register](https://github.com/aebedir/Netflix-With-Django/assets/114408989/c1839310-c626-460a-8573-005cc9bd35e2)
--Django/assets/114408989/a694ce19-a99e-40c6-85d2-0ea4dfe53742)
+![netflix-profil](https://github.com/aebedir/Netflix-With-Django/assets/114408989/1bfe7bf4-a627-4a3a-851f-85b043132331)
  
 ![netflix-register](https://github.com/aebedir/Netflix-With-Django/assets/114408989/3adac7cb-6fe1-4f6a-a0f2-7f494f40059d)
 
